@@ -7,3 +7,4 @@
 3. https://adamabumedina.github.io/Evklid/
 4. https://adamabumedina.github.io/Hotels/
 5. https://adamabumedina.github.io/Paris_Booking/
+6. https://adamabumedina.github.io/The-Loop/
