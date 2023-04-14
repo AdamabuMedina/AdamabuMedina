@@ -14,4 +14,3 @@
 5. https://adamabumedina.github.io/Paris_Booking/
 6. https://adamabumedina.github.io/The-Loop/
 7. https://adamabumedina.github.io/mogo/
-8. https://adamabumedina.github.io/coursera-test/
