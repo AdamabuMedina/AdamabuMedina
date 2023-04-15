@@ -1,10 +1,6 @@
-Я начинающий frontdent developer
+Я начинающий fullstack developer на python и javascript
 
-#Курсовая работа в онлайн школе SkillBox:
-
-#https://adamabumedina.github.io/Blanchard/index.html
-
-
-На данном этапе, сверстал несколько адаптивных сайтов по видеоурокам:
+На данном этапе, сверстал несколько адаптивных сайтов:
 
 1. https://adamabumedina.github.io/Createx/
+2. https://adamabumedina.github.io/Blanchard/
