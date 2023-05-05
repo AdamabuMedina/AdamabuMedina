@@ -11,6 +11,6 @@ Fullstack приложение на чистом JavaScript
 4. https://github.com/AdamabuMedina/crm-fullstack
 
 
-Приложение использующее Unsplash-API
+Приложение использующее Unsplash-API на React 16 версия
 
 5. https://github.com/AdamabuMedina/instagram-clone-unsplash 
