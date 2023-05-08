@@ -6,11 +6,12 @@
 2. https://adamabumedina.github.io/Blanchard/
 3. https://adamabumedina.github.io/SitDownPLS-online-store/
 
-Fullstack приложение на чистом JavaScript
+Fullstack приложение на JavaScript
 
 4. https://github.com/AdamabuMedina/crm-fullstack
 
 
-Приложение использующее Unsplash-API на React 16 версия
+Приложение использующие React
 
-5. https://github.com/AdamabuMedina/instagram-clone-unsplash 
+5. https://github.com/AdamabuMedina/instagram-clone-unsplash
+6. https://github.com/AdamabuMedina/reddit-news-app
