@@ -15,3 +15,6 @@ Fullstack приложение на JavaScript
 
 5. https://github.com/AdamabuMedina/instagram-clone-unsplash
 6. https://github.com/AdamabuMedina/reddit-news-app
+
+Телеграм-бот на python
+7. https://github.com/AdamabuMedina/trevel-telegrambot
