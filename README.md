@@ -1,6 +1,4 @@
-Я fullstack developer на python и javascript
 
-На данном этапе, сверстал несколько адаптивных сайтов:
 
 * https://adamabumedina.github.io/Createx/
 * https://adamabumedina.github.io/Blanchard/
