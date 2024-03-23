@@ -1,4 +1,9 @@
+Приложения на Java
 
+* https://github.com/AdamabuMedina/tic-tac-toe
+* https://github.com/AdamabuMedina/Viselica
+
+Верстка сайтов (HTML, CSS, JS)
 
 * https://adamabumedina.github.io/Createx/
 * https://adamabumedina.github.io/Blanchard/
