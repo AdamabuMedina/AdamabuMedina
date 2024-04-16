@@ -1,7 +1,9 @@
 Приложения на Java
 
-* https://github.com/AdamabuMedina/tic-tac-toe
+
+* https://github.com/AdamabuMedina/tic-tac-toe (игра крестики нолики)
 * https://github.com/AdamabuMedina/Viselica
+* https://github.com/AdamabuMedina/chess (игра шахматы)
 
 Верстка сайтов (HTML, CSS, JS)
 
